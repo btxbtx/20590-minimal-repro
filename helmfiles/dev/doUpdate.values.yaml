@@ -1,0 +1,4 @@
+image:
+  registry: ""
+  repository: "renovate/renovate"
+  tag: "32"
